@@ -1,0 +1,18 @@
+{
+  "name": "私人市场测试",
+  "description": "内部插件市场",
+  "owner": {
+    "name": "fengyongsheng520",
+    "id": "github:fengyongsheng520"
+  },
+  "plugins": [
+    {
+      "name": "team-toolkit",
+      "description": "团队标准开发工具包",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/fengyongsheng520/sheng-claude-code-plugin.git"
+      }
+    }
+  ]
+}

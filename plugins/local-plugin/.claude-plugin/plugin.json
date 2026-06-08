@@ -1,0 +1,9 @@
+{
+  "name": "local-toolkit",
+  "version": "1.0.0",
+  "description": "本地测试插件",
+  "author": {
+    "name": "Platform Team",
+    "email": "platform-team@example.com"
+  }
+}

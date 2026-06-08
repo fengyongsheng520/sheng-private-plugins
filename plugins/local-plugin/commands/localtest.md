@@ -1,6 +1,6 @@
 ---
 name: localtest
-description: 测试命令
+description: 测试命令123
 ---
 
 用法：`/localtest [environment]`
